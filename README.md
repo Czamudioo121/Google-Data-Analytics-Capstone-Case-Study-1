@@ -1,4 +1,4 @@
-# Cyclistic Bike-Share — Caso de estudio 1 (2025–2026)
+# Cyclistic Bike-Share — Caso de estudio 1
 
 Este repositorio documenta un caso de estudio de analítica de datos enfocado en comprender cómo difiere el uso del servicio de bicicletas compartidas Cyclistic entre **miembros anuales** y **usuarios ocasionales**, y cómo esas diferencias pueden traducirse en oportunidades de marketing orientadas a incrementar la conversión a membresías anuales.
 
