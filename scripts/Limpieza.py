@@ -30,7 +30,6 @@ df_limpio['ended_at'] = pd.to_datetime(df_limpio['ended_at'])
 df_limpio['ride_length'] = df_limpio['ended_at'] - df_limpio['started_at']
 
 # 6. Limitar a viajes que duren máximo 4 horas y que sean mayores a 0 minutos
-# (Esto elimina errores donde la fecha de fin es anterior a la de inicio)
 limite_superior = pd.Timedelta(hours=4)
 limite_inferior = pd.Timedelta(minutes=0)
 
