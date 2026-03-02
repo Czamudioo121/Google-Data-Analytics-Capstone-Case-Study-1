@@ -62,7 +62,7 @@ Se identificó un pico de demanda entre finales de agosto e inicios de septiembr
 
 Los resultados se presentaron mediante visualizaciones interactivas construidas en Tableau (workbook `Visualizaciones/Caso de estudio 1.twb`) y exportadas como imágenes PNG dentro de la carpeta `Visualizaciones/`. El reporte narrativo completo, que incluye hallazgos, implicaciones estratégicas y recomendaciones, se encuentra documentado en `Reporte/Informec.pdf`.
 
-> 📄 Para ver el análisis completo en profundidad, incluyendo hallazgos detallados, visualizaciones y recomendaciones estratégicas, dirígete a [`Reporte/Informec.pdf`](./Reporte/Informec.pdf).
+> 📄 Para ver el análisis completo en profundidad, incluyendo hallazgos detallados, visualizaciones y recomendaciones estratégicas, dirígete a [`Reporte/Informec.pdf`](https://github.com/Czamudioo121/Google-Data-Analytics-Capstone-Case-Study-1/blob/main/Reporte/Informe.pdf).
 
 ### Actuar
 
